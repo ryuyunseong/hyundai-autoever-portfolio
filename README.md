@@ -2,6 +2,8 @@
 
 현대오토에버 지원용 공개 웹 포트폴리오입니다. 1지망 글로벌 인프라 진단, 2지망 보안 솔루션 운영을 기준으로 인프라 진단·위험평가, 조치 이행점검, SOC 경험을 앞에 배치했습니다.
 
+[포트폴리오 웹사이트](https://ryuyunseong.github.io/hyundai-autoever-portfolio/) · [공개용 PDF](https://ryuyunseong.github.io/hyundai-autoever-portfolio/assets/portfolio.pdf)
+
 HTML/CSS/vanilla JavaScript로 구성한 정적 사이트입니다. 설치·빌드·서버 API·DB가 필요하지 않습니다. 모든 내용과 링크는 JavaScript 없이도 읽고 사용할 수 있습니다. JavaScript는 테마 변경과 테마 선택 저장에만 사용합니다.
 
 ## 파일 구조
