@@ -1,0 +1,15 @@
+# Source PDF contains customer names. Publish only the reviewed assets PDF.
+/portfolio.pdf
+/IMPLEMENTATION_PLAN.md
+/REVIEW_NOTES.md
+/tmp/
+/output/
+*.log
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
